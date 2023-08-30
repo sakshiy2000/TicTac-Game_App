@@ -1,0 +1,11 @@
+ 
+.square{
+    border: 1px solid black;
+    text-align:  center;
+    font-weight: 600;
+    height: 90px;
+    width: 90px;
+    background-color: rgb( 236,  235,  235);
+    font-size: 20px;
+    vertical-align: middle;
+}
